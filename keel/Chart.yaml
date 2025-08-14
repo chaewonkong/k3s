@@ -1,0 +1,5 @@
+apiVersion: v2
+name: keel
+description: Lightweight Kubernetes automatic deployment tool
+version: 0.1.0
+appVersion: "0.16.1"
